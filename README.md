@@ -1,4 +1,5 @@
-C++Style branch
+C++Style branch (in the process of development)
+
 DMX input/output controller based on Arduino-MEGA board. 
 Accepts control sequences via the Ethernet port and provides:
 1) the issuance of appropriate commands to DMX devices;
